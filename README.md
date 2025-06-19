@@ -1,6 +1,6 @@
 # Hi, I'm [Afshan]
 
-Electrical Engineer | Data Analyst | Lecturer
+Electrical Engineer | Data Analyst | Lecturer.
 Passionate about sustainability, data science, and smart systems.
 
 ## Portfolio Projects
